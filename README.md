@@ -39,48 +39,7 @@
 
 <br>
 
-<!-- Snake Contribution Map -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/platane/snk/svg/only-export/snk-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/platane/snk/svg/only-export/snk-light.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/platane/snk/svg/only-export/snk-dark.svg" />
-</picture>
-</div>
-
----
-
-<!-- Trophies -->
-<div align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=LunFengChen&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-</div>
-
----
-
-<h3 align="center">About My Github</h3>
-
-<!-- Stats & Langs Table Layout -->
-<div align="center">
-  <table style="width:100%;">
-    <tr>
-      <!-- Stats -->
-      <td align="center">
-	      <img height='160' src="https://github-readme-stats.vercel.app/api?username=LunFengChen&show_icons=true&theme=tokyonight" align="center" />
-      </td>
-      <!-- Top Langs -->
-      <td align="center">
-	      <img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunFengChen&hide=html,css&layout=compact&langs_count=8&theme=tokyonight" />
-      </td>
-    </tr>
-    <!-- Activity Graph -->
-    <tr>
-      <td colspan="2" align="center">
-        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=LunFengChen&theme=github-compact&hide_border=true&area=true" />
-      </td>
-    </tr>
-  </table>
-</div>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LunFengChen&theme=tokyo-night)](https://github.com/LunFengChen/github-readme-activity-graph)
 ---
 
 <h2 align="center">💡 核心项目与产品</h2>
