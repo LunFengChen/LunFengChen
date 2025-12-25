@@ -39,9 +39,11 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LunFengChen&theme=tokyo-night)](https://github.com/LunFengChen/github-readme-activity-graph)
----
+![snake svg](https://raw.githubusercontent.com/LunFengChen/LunFengChen/output/github-contribution-grid-snake.svg)
 
+<!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LunFengChen&theme=tokyo-night)](https://github.com/LunFengChen/github-readme-activity-graph)
+-->
 <h2 align="center">💡 核心项目与产品</h2>
 
 <div align="center">
