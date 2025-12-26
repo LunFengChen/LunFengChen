@@ -4,7 +4,7 @@
 <!-- Header Typing SVG -->
 <div align="center">
   <a href="https://github.com/LunFengChen">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=为了热爱;I'm+LunFengChen+Welcome+!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=为了热爱&center=true&size=27">
   </a>
 </div>
 
@@ -26,9 +26,9 @@
 
 <div align="left">
   
-我是一名致力于深耕 **移动安全** 与 **逆向工程** 领域的安全研究员，我的核心工作是围绕 **Android应用逆向分析**、**自动化工具开发** 与 **流量协议分析**。
+致力于深耕 **移动安全** 与 **逆向工程** 领域，主要是围绕 **Android应用逆向分析**、**自动化工具开发** 、**纯协议逆向** 与 **流量协议分析**。
 
-**工具是思维的延伸**，因此我热衷于开发或改造各类工具（如 jadx, Frida, IDA, unicorn/unidbg，MCP），致力于构建一个更智能、**更自动化**的逆向工程工作流。目标是让ai能够安全自动化逆向。
+**工具是思维的延伸**，因此我热衷于开发或改造各类实用工具（如 jadx, Frida, IDA, unicorn/unidbg，MCP）, 努力建一个更智能、**更自动化**的逆向工程工作流。目标是接入ai后能够完全自动化逆向。
 
 我同样热衷于**知识的沉淀与分享**，这能让我 与同样热爱带我朋友 共同成长。所以如果你需要 和我交流或者答疑服务，可以看下面：
 -   **🎬 实战视频分享**：我的 **[Bilibili](https://space.bilibili.com/1797341454)** 频道专注于分享 **高质量、一镜到底**(可能是自认为的高质量) 的安卓逆向与 AI 自动化逆向实战过程。
@@ -44,7 +44,7 @@
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LunFengChen&theme=tokyo-night)](https://github.com/LunFengChen/github-readme-activity-graph)
 -->
-<h2 align="center">💡 核心项目与产品</h2>
+<h2 align="center">💡 主要项目</h2>
 
 <div align="center">
 
