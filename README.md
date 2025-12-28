@@ -50,12 +50,12 @@
 
 | 项目 | 核心价值 |
 | :--- | :--- |
-| [**jadx**](https://github.com/LunFengChen/jadx) | **逆向加速器**。魔改 jadx-gui，实现 `F` 键一键生成 Frida Hook 代码，`H` 键生成主动调用片段。 |
-| [**jadx-frida-hookall**](https://github.com/LunFengChen/jadx-frida-hookall) | **脚本集合库**。集成常用 Frida 脚本的 jadx 插件，实现关键逻辑的“即点即用”。 |
-| [**trace_natives_plus**](https://github.com/LunFengChen/trace_natives_plus) | **精准追踪器**。增强的 IDA 插件，支持分批 Trace 对抗程序崩溃，快速聚焦核心逻辑。 |
-| [**SoFixer**](https://github.com/LunFengChen/SoFixer) | **符号修复器**。编译 看雪大佬开源但未编译的 修复版 SoFixer，多平台 Release。 | 
-| [**kpm-dev**](https://github.com/LunFengChen/kpm-dev) | **内核开发模板**。更简单的开箱即用的内核模块开发环境模板。 |
-| [**proxypin-mcp-server**](https://github.com/LunFengChen/proxypin-mcp-server) | **AI 自动化分析**。为自动化流量分析提供 MCP 服务端，让 AI 理解并操作抓包工作流。 |
+| [**jadx**](https://github.com/LunFengChen/jadx) | **快速生成frida脚本片段: hook & rpc_call**。魔改 jadx-gui，实现 `F` 键一键生成 Frida Hook 代码，`H` 键生成主动调用片段。 |
+| [**jadx-frida-hookall**](https://github.com/LunFengChen/jadx-frida-hookall) | **脚本集合库**。集成常用 Frida 脚本的 jadx 插件，实现关键逻辑的“copy即用”。 |
+| [**trace_natives_plus**](https://github.com/LunFengChen/trace_natives_plus) | **函数调用跟踪**。增强的 IDA 插件，支持分批 Trace 对抗程序崩溃，支持链式过滤高级筛选。 |
+| [**SoFixer**](https://github.com/LunFengChen/SoFixer) | **so符号修复器**。编译 看雪大佬开源但未编译的 修复版 SoFixer，多平台 Release。 | 
+| [**kpm-dev**](https://github.com/LunFengChen/kpm-dev) | **内核模块 开发**。更简单的开箱即用的内核模块开发环境模板。 |
+| [**proxypin-mcp-server**](https://github.com/LunFengChen/proxypin-mcp-server) | **抓包流量 ai自动化分析**。为自动化流量分析提供 MCP 服务端，让 AI 能够接管抓包流程。 |
 | [**proxypin**](https://github.com/LunFengChen/proxypin) | **支持MCP的抓包工具**。原生集成 MCP 功能的 Proxypin。 | 
 | [**Gateway-Mcp**](https://github.com/LunFengChen/Gateway-Mcp) | **节省上下文的MCP**。实现不同逆向工具与 AI 助手之间的桥接与协议转换。 |
 
