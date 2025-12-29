@@ -57,7 +57,7 @@
 | [**kpm-dev**](https://github.com/LunFengChen/kpm-dev) | **内核模块 开发**。更简单的开箱即用的内核模块开发环境模板。 |
 | [**proxypin-mcp-server**](https://github.com/LunFengChen/proxypin-mcp-server) | **抓包流量 ai自动化分析**。为自动化流量分析提供 MCP 服务端，让 AI 能够接管抓包流程。 |
 | [**proxypin**](https://github.com/LunFengChen/proxypin) | **支持MCP的抓包工具**。原生集成 MCP 功能的 Proxypin。 | 
-| [**Gateway-Mcp**](https://github.com/LunFengChen/Gateway-Mcp) | **节省上下文的MCP**。实现不同逆向工具与 AI 助手之间的桥接与协议转换。 |
+| [**Gateway-Mcp**](https://github.com/LunFengChen/Gateway-Mcp) | **支持二级路由的mcp**。告别tools过多带来的上下文问题、减轻ai幻觉问题，实现不同逆向工具与 AI 助手之间的桥接与协议转换。 |
 
 </div>
 
