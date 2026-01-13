@@ -58,6 +58,8 @@
 | [**proxypin-mcp-server**](https://github.com/LunFengChen/proxypin-mcp-server) | **抓包流量 ai自动化分析**。为自动化流量分析提供 MCP 服务端，让 AI 能够接管抓包流程。 |
 | [**proxypin**](https://github.com/LunFengChen/proxypin) | **支持MCP的抓包工具**。原生集成 MCP 功能的 Proxypin。 | 
 | [**Gateway-Mcp**](https://github.com/LunFengChen/Gateway-Mcp) | **支持二级路由的mcp**。告别tools过多带来的上下文问题、减轻ai幻觉问题，实现不同逆向工具与 AI 助手之间的桥接与协议转换。 |
+| [**ninja-jni-helper**](https://github.com/LunFengChen/ninja-jni-helper) | **ninja版本的jni自动导入和识别**。自动处理JNIEnv*，自动处理静态注册，动态注册导入json亦可处理； |
+
 
 </div>
 
